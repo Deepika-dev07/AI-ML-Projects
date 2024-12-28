@@ -1,1 +1,1 @@
-# AI-ML-Projects
+This repository contains my AI/ML projects focusing on building a predictive model, natural language processing task. The project aims to solve problem using various machine learning algorithms and techniques.
